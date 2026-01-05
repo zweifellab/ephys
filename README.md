@@ -35,7 +35,7 @@ extractspiketimes
 
 Burst_80_160rev_neuralynx
 
-YS_getCSCdata / getCSCdata
+YS_getCSCdata
 
 Function Usage
 optoBurst(eventFileName, cellFileNames, cscFileNames, analysisOptions)
